@@ -1,0 +1,17 @@
+.header-container{
+    height: 80px;
+    background-color: rgb(28, 14, 57);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 146px;
+    padding-right: 146px;
+}
+.header-container a{
+    text-decoration: none;
+    margin-left: 46px;
+    color: white;
+}
+.header-container a:hover{
+    color: orange;
+}
